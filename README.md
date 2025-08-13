@@ -3,7 +3,9 @@
 
 
 # Intelligent-System-ERP-Mapping-and-Cataloging
-[OMOTAYO ALEXANDER OLANUSI Technischer Bericht_ Funktionsweise meines Recordlinkage-Codes für das Projekt](https://github.com/user-attachments/assets/45648263-ffd7-4421-a104-4b4d806128b3)
+[OMOTAYO ALEXANDER OLANUSI Technischer Bericht_ Funktionsweise meines Recordlinkage-Codes für das Projekt]
+
+https://github.com/user-attachments/assets/45648263-ffd7-4421-a104-4b4d806128b3
 
 ## Overview
 This Python script uses the **recordlinkage** library to match technical systems from a customer file with item numbers from an EP catalog.  
