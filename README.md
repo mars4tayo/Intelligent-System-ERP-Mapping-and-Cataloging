@@ -3,9 +3,10 @@
 
 
 # Intelligent-System-ERP-Mapping-and-Cataloging
-[OMOTAYO ALEXANDER OLANUSI Technischer Bericht_ Funktionsweise meines Recordlinkage-Codes für das Projekt]
 
-https://github.com/user-attachments/assets/45648263-ffd7-4421-a104-4b4d806128b3
+https://github.com/user-attachments/assets/f7922704-5063-4eb5-8c1b-3adc6682307f
+
+
 
 ## Overview
 This Python script uses the **recordlinkage** library to match technical systems from a customer file with item numbers from an EP catalog.  
@@ -188,9 +189,7 @@ This project is licensed under the MIT License.
 
 ```
 
----
 
-I can also add **flow diagrams** showing the matching pipeline and **performance comparison graphs** to make your GitHub README visually appealing and easier for visitors to understand. That would make it look like a polished, professional open-source project.  
 
 Do you want me to add those diagrams next?
 ```
