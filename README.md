@@ -1,7 +1,7 @@
 
 
 
-```
+
 # Intelligent-System-ERP-Mapping-and-Cataloging
 ![OMOTAYO ALEXANDER OLANUSI Technischer Bericht_ Funktionsweise meines Recordlinkage-Codes für das Projekt](https://github.com/user-attachments/assets/45648263-ffd7-4421-a104-4b4d806128b3)
 
